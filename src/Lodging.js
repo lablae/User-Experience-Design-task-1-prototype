@@ -3,7 +3,7 @@
 const Lodging = () => {
     
     return (<>
-        Lodging</>);
+        <p className="paragraph"> Taniti has a wide variety of lodging that ranges from an inexpensive hostel to one large, four-star resort. There are many small, family-owned hotels and a growing number of bed and breakfasts. All types of lodging are strictly regulated and regularly inspected by the Tanitian government.</p></>);
 }
 
 export default Lodging;
